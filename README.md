@@ -1,7 +1,7 @@
  # Repositori Praktikum Pemrograman Berorientasi Objek
 
 <p align="left">
-<a href="#"><img src="https://komarev.com/ghpvc/?username=FT3006"></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=FT3006&color=blueviolet"></a>
 <a href="#"><img src="https://img.shields.io/github/issues-pr/FT3006/PBO-T3C?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/repo-size/FT3006/PBO-T3C?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/FT3006/PBO-T3C?style=flat-square"></a>
