@@ -51,8 +51,10 @@ Contoh struktur direktori sebagai *berikut:*
 
 ## Modul Praktikum 👁‍🗨
 
-- [Modul Praktikum Git & Github #0 (Intro/Setup) ](Praktikum-0-Git-&-Github.md) :octocat:
-- [Modul Prakikum Git & Github #1 (workflow)](Praktikum-1-Berkontribusi-di-Proyek.md)
+- [Install and Cofigure Git On Windows](https://elearning.stmik-sumedang.ac.id) :octocat:
+- [Github Workflow: How to Contribute to Projects](https://elearning.stmik-sumedang.ac.id)
+- [Github Workflow: Save Revised Changes with Git Commit](https://elearning.stmik-sumedang.ac.id)
+
 
 ## Referensi 🕵️‍♂️
 
