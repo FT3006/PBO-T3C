@@ -8,7 +8,7 @@
 <a href="#"><img src="https://travis-ci.com/FT3006-OOP/OOP-TI3D.svg?branch=master"></a>
 </p>
 
-#### Senin, 🕐 10:30 s.d 13:50
+#### Selasa, 🕐 11:20 s.d 14:40
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
 
