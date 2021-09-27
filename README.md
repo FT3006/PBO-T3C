@@ -88,4 +88,5 @@ Contoh struktur direktori sebagai *berikut:*
 <a href="#"><img src="https://img.shields.io/github/forks/FT3006/PBO-T3C?label=fork&style=social"alt="Fork"></a>
 <a href="#"><img src="https://img.shields.io/github/contributors/FT3006/PBO-T3C" alt="Stars"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href-"#"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="python"></a>
 </p>
