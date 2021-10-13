@@ -7,7 +7,7 @@ class heroDota:
 
 heroPertama = heroDota("axe", 100, 78, 80)
 heroKedua = heroDota("oracle", 100, 67, 20)
-heroKetiga = heroDota("undying", 100, 75, 78)
+heroKetiga = heroDota("bristleback", 100, 79, 82)
 print(heroPertama.__dict__)
 print(heroKedua.__dict__)
 print(heroKetiga.__dict__)
