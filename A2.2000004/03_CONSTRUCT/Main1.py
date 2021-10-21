@@ -13,4 +13,4 @@ hero3 = Hero("ucup",1000, 100, 0)
 
 print(hero1.__dict__)
 print(hero2.__dict__)
-print(hero3.__dic t__)
+print(hero3.__dict__)
