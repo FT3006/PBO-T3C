@@ -8,7 +8,7 @@
 <a href="#"><img src="https://travis-ci.com/FT3006-OOP/OOP-TI3D.svg?branch=master"></a>
 </p>
 
-#### Senin, 🕐 10:30 s.d 13:50
+#### Selasa, 🕐 11:20 s.d 14:40
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
 
@@ -51,8 +51,10 @@ Contoh struktur direktori sebagai *berikut:*
 
 ## Modul Praktikum 👁‍🗨
 
-- [Modul Praktikum Git & Github #0 (Intro/Setup) ](Praktikum-0-Git-&-Github.md) :octocat:
-- [Modul Prakikum Git & Github #1 (workflow)](Praktikum-1-Berkontribusi-di-Proyek.md)
+- [Install and Cofigure Git On Windows](https://elearning.stmik-sumedang.ac.id) :octocat:
+- [Github Workflow: How to Contribute to Projects](https://elearning.stmik-sumedang.ac.id)
+- [Github Workflow: Save Revised Changes with Git Commit](https://elearning.stmik-sumedang.ac.id)
+
 
 ## Referensi 🕵️‍♂️
 
@@ -73,7 +75,8 @@ Contoh struktur direktori sebagai *berikut:*
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;"
         alt="yysofiyan" /><br /><sub><b>yysofiyan</b></sub></a><br /><a</a></td>
-    <td align="center"><a href="https://github.com/FT3006/PBO-T3C/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=FT3006/PBO-T3C"/></a>
+    <td align="center"><a href="https://github.com/FT3006/PBO-T3C/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=FT3006/PBO-T3C"></a>
   </tr>
 </table>
 
@@ -86,4 +89,5 @@ Contoh struktur direktori sebagai *berikut:*
 <a href="#"><img src="https://img.shields.io/github/forks/FT3006/PBO-T3C?label=fork&style=social"alt="Fork"></a>
 <a href="#"><img src="https://img.shields.io/github/contributors/FT3006/PBO-T3C" alt="Stars"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href-"#"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="python"></a>
 </p>
