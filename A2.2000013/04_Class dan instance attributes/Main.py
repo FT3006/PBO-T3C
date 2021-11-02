@@ -1,25 +1,16 @@
-class Hero:
+class heroDota:
+    def __init__(self, inputName, inputHealth, inputPower, inputArmor):
+    jumlah = 0
+        self.name = inputName
+        self.health = inputHealth
+        self.power = inputPower
+        self.armor = inputArmor
+        heroDota.jumlah += 1
+        print("membuat hero dengan nama " + inputName)
 
-    def __init__(self,name,health,attackPower,armorNumber):
-        self.name = name
-        self.health = health
-        self.attackPower = attackPower
-        self.armorNumber = armorNumber
-
-    def serang(self, lawan):
-        print(self.name + ' menyerang ' + lawan.name)
-        lawan.diserang(self, self.attackPower)
-
-    def diserang(self, lawan, attackPower_lawan):
-        print(self.name + ' diserang ' + lawan.name)
-        attack_diterima = attackPower_lawan/self.armorNumber
-        print('serangan terasa : ' + str(attack_diterima))
-        self.health -= attack_diterima
-        print('darah ' + self.name + ' tersisa ' + str(self.health))
-
-dilabedil = Hero('dilabedil', 100, 78, 80)
-cacamarica = Hero('cacamarica', 150, 67, 20)
-
-dilabedil.serang(cacamarica)
-print("\n")
-cacamarica.serang(dilabedil) 
+heroPertama = heroDota("dilabedil", 100, 78, 80)
+print(heroDota.jumlah)
+heroKedua = heroDota("cacamarica", 150, 67, 20)
+print(heroDota.jumlah)
+heroKetiga = heroDota("abdurh", 100, 75, 78)
+print(heroDota.jumlah)
