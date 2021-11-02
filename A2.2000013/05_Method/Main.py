@@ -1,6 +1,9 @@
 class heroDota:
-    def __init__(self, inputName, inputHealth, inputPower, inputArmor):
+    #template
+    #class variable
     jumlah = 0
+    def __init__(self, inputName, inputHealth, inputPower, inputArmor):
+
         self.name = inputName
         self.health = inputHealth
         self.power = inputPower
