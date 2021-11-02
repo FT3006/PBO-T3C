@@ -17,9 +17,9 @@ class Hero:
         self.health -= attack_diterima
         print('darah ' + self.name + ' tersisa ' + str(self.health))
 
-sniper = Hero('Sniper',100,10,5)
-rikimaru = Hero('Rikimaru',100,20,10)
+dilabedil = Hero('dilabedil', 100, 78, 80)
+cacamarica = Hero('cacamarica', 150, 67, 20)
 
-sniper.serang(rikimaru)
+dilabedil.serang(cacamarica)
 print("\n")
-rikimaru.serang(sniper) 
+cacamarica.serang(dilabedil) 
