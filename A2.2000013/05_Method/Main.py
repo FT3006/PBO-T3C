@@ -1,6 +1,7 @@
 class heroDota:
     #template
     #class variable
+
     jumlah = 0
     def __init__(self, inputName, inputHealth, inputPower, inputArmor):
 
@@ -15,7 +16,7 @@ class heroDota:
         print(" Namaku Adalah " + self.name)
 
 # method dengana rgumen, tanpa return
-    def power(self, up):
+    def powerUp(self, up):
         self.power +=up
 
 # void function, method tanpa return, tanpa argumen
@@ -24,7 +25,6 @@ class heroDota:
 
 
 heroPertama = heroDota("dilabedil", 100, 78, 80)
-heroPertama.apa()
+heroPertama.siapa()
 heroPertama.powerUp(78)
 print(heroPertama.getPower())
-
