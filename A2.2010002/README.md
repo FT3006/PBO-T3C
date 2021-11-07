@@ -21,4 +21,8 @@ Timeline
     1. Memahami Konsep Class dan instance attributes.
     2. Praktikum Class dan instance attributes
 
+5. Lesson 5 :
+    1. Memahami Konsep Method
+    2. Praktikum Method
+
 
