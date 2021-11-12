@@ -25,4 +25,11 @@ Timeline
     1. Memahami Konsep Method
     2. Praktikum Method
 
+6. Lesson 6 :
+    1. Memahami Konsep OOP pada contoh Games Basic
+    2. Praktikum OOP
+
+7. Lesson 7 :
+    1. Memahami Konsep Private Variables
+    2. Praktikum  Konsep Private Variables
 
