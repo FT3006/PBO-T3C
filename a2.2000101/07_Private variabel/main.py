@@ -13,7 +13,7 @@ class Hero :
     #Variabel instance Protected
     self._protected = "protected"
 
-spiderman = Hero("Kufra", 100)
+spiderman = Hero("spiderman", 100)
 
 print(spiderman.__dict__)
 #print(spiderman.__private)
