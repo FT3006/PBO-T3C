@@ -17,4 +17,4 @@ lina = Hero("lina",100)
 
 print(lina.__dict__)
 print(Hero.__dict__)
-print(Hero.__PrivateJumlah)
+print(Hero.__PrivateJumlah__)
