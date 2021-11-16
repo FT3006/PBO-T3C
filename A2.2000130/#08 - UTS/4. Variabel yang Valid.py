@@ -13,4 +13,4 @@ contoh_perusahaan_yang_menggunakan_bahasa_python = "Youtube, Path, dan lain-lain
 belajar_phyton_oop = True
 
 #3m4ng_s3ru = "Benar"
-Emang_seru = "Benar"
+Em4ng_s3ru = "Benar"
