@@ -20,10 +20,10 @@ class HeroMobileLegends :
     self.__attPower = nilaiBaru
 
 #Awal Game
-Guinevere = HeroMobileLegends("Guinevere", 100, 90)
+Karina = HeroMobileLegends("Karina", 100, 90)
 
 #Game Berjalan
-print(Guinevere.getName())
-print(Guinevere.getHealth())
-Guinevere.diserang(20)
-print(Guinevere.getHealth())
+print(Karina.getName())
+print(Karina.getHealth())
+Karina.diserang(20)
+print(Karina.getHealth())
