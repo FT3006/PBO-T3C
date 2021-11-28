@@ -3,4 +3,4 @@ class Kendaraan(object):
 
 mobil = Kendaraan()
 
-print(mobil.bahan_bakar)
+print(mobil.bahan_bakar)     
