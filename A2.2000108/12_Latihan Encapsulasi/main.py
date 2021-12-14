@@ -11,17 +11,17 @@ class Hero:
 		self.__level = 1
 		self.__exp = 0
 
-		self._healthMax = self.healthStandar * self._level
-		self._attPower = self.attPowerStandar * self._level
-		self._armor = self.armorStandar * self._level
+		self.__healthMax = self.__healthStandar * self.__level
+		self.__attPower = self.__attPowerStandar * self.__level
+		self.__armor = self.__armorStandar * self.__level
 
-		self._health = self._healthMax
+		self.__health = self.__healthMax
 
 		Hero.__jumlah += 1
 
 	@property
 	def info(self):
-		return "{} level {}: \n\thealth = {}/{} \n\tattack = {} \n\tarmor = {}".format(self._name,self.level,self.health,self.healthMax,self.attPower,self._armor)
+		return "{} level {}: \n\thealth = {}/{} \n\tattack = {} \n\tarmor = {}".format(self.__name,self.__level,self.__health,self.__healthMax,self.__attPower,self.__armor)
 
 	@property
 	def gainExp(self):
@@ -35,9 +35,9 @@ class Hero:
 			self.__level += 1
 			self.__exp -= 100
 
-			self._healthMax = self.healthStandar * self._level
-			self._attPower = self.attPowerStandar * self._level
-			self._armor = self.armorStandar * self._level
+			self.__healthMax = self.__healthStandar * self.__level
+			self.__attPower = self.__attPowerStandar * self.__level
+			self.__armor = self.__armorStandar * self.__level
 
 	def attack(self,musuh):
 		self.gainExp = 50
@@ -50,4 +50,19 @@ slardar.attack(axe)
 slardar.attack(axe)
 slardar.attack(axe)
 
-print(slardar.gainExp)
+print(slardar.info)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
