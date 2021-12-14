@@ -51,18 +51,3 @@ slardar.attack(axe)
 slardar.attack(axe)
 
 print(slardar.info)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
