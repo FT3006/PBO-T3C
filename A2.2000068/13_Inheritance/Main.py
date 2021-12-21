@@ -16,13 +16,13 @@ class Hero_Assassin(HeroMobileLegends):
 class Hero_Mage(HeroMobileLegends):
     pass
 
-Alucard = HeroMobileLegends('Alucard', 100)
+Argus = HeroMobileLegends('Argus', 100)
 Tigreal = Hero_Tank('Tigreal', 200)
 Barats = Hero_Fighter('Barats', 100)
 Natalia = Hero_Assassin('Natalia', 80)
 Pharsa = Hero_Mage('Pharsa', 60)
 
-print(Alucard.__dict__)
+print(Argus.__dict__)
 print(help(Tigreal))
 print(Barats.name)
 print(Natalia.name)
