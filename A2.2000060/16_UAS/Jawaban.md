@@ -6,7 +6,7 @@
 6. Anda menggunakan nama class, diikuti dengan tanda kurung. Jadi jika nama classnya komputer(), contoh Komputernya adalah - my_class = Komputer().
 7. Dengan notasi titik — misalnya, instance_name.attribute_name
 8. Sebuah fungsi yang didefinisikan di dalam class.
-9. Argumen pertama dari setiap metode merujuk pada instance class saat ini, yang menurut konvensi, diberi nama self. Dalam __init__ metode ini, selfmengacu pada objek yang baru dibuat; sementara dalam metode lain, selfmengacu pada contoh yang metode namanya disebut.
+9. Argumen pertama dari setiap metode merujuk pada instance class saat ini, yang menurut konvensi, diberi nama self. Dalam __init__ metode ini, self mengacu pada objek yang baru dibuat; sementara dalam metode lain, self mengacu pada contoh yang metode namanya disebut.
 10. __init__ Metode menginisialisasi sebuah instance dari class.
 11. class child akan mewarisi semua atribut dan perilaku dari parents.
 12. Ya, class child dapat menimpa sifat dari parent.
