@@ -10,7 +10,7 @@ class HeroMobileLegends : #template
     self.armor = inputArmor
 
     HeroMobileLegends.jumlah += 1
-    print("membuat Hero dengan nama " + inputName)
+    print("Membuat Hero dengan nama " + inputName)
 
 hero1 = HeroMobileLegends("Gusion",100, 10, 5)
 print(HeroMobileLegends.jumlah)

@@ -1,8 +1,8 @@
 class HeroMobileLegends :
 
-  def __init__(self, name, health) :
-    self.name = name
-    self.health = health
+    def __init__(self, name, health) :
+        self.name = name
+        self.health = health
 
 class Hero_Tank(HeroMobileLegends):
     pass

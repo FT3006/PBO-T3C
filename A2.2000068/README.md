@@ -1,1 +1,1 @@
-Praktikum #01-Class dan Object
+Praktikum #01-Class dan Object.
