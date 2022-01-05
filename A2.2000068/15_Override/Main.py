@@ -32,7 +32,7 @@ class HeroMobileLegends_Tank(HeroMobileLegends):
 
 
 Selena = HeroMobileLegends_Mage('Selena')
-Johnson = HeroMobileLegends_Tank('Johnson')
+Uranus = HeroMobileLegends_Tank('Uranus')
 
 Selena.showInfo()
-Johnson.showInfo()
+Uranus.showInfo()
