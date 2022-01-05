@@ -1,4 +1,4 @@
-1. Class adalah mekanisme yang digunakan untuk membuat struktur data pengguna baru yang ditentukan. Ini berisi data serta metode yang digunakan untuk memproses data tersebut.
+1. Class adalah Mekanisme yang digunakan untuk membuat struktur data pengguna baru yang ditentukan. Ini berisi data serta metode yang digunakan untuk memproses data tersebut.
 
 2. Instance bisa diartikan sebagai wujud dari class. Class berisi definisi variabel dan fungsi yang menggambarkan sebuah objek. Contoh, bayangkan sebuah rumah, didalamnya ada TV, Kursi, Sofa dan alat- alat lainnya. Dalam PBO, rumah adalah class, sedangkan TV, Kursi, Sofa adalah instance.
 
