@@ -43,7 +43,7 @@ Roger = HeroFighter('Roger')
 Lancelot = HeroAssassin('Lancelot')
 Nana = HeroMage('Nana')
 
-#print(Johnson.name , '' , Johnson.health)
+#print(Beleric.name , '' , Beleric.health)
 #print(Roger.name , '' , Roger.health)
 #print(Lancelot.name , '' , Lancelot.health)
 #print(Nana.name , '' , Nana.health)
