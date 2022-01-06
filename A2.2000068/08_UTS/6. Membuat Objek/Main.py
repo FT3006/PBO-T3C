@@ -6,4 +6,4 @@ class Kendaraan:
 
 mobil = Kendaraan ("Mobil")
 
-print("Bahan bakar mobil adalah " + mobil.bahan_bakar)
+print("Bahan Bakar mobil adalah " + mobil.bahan_bakar)
