@@ -38,7 +38,7 @@ class HeroMage(HeroMobileLegends):
     super().__init__(name, 60)
     super().showInfo()
 
-Beleric = HeroTank('Beleric')
+Johnson = HeroTank('Johnson')
 Roger = HeroFighter('Roger') 
 Lancelot = HeroAssassin('Lancelot')
 Nana = HeroMage('Nana')
@@ -47,4 +47,3 @@ Nana = HeroMage('Nana')
 #print(Roger.name , '' , Roger.health)
 #print(Lancelot.name , '' , Lancelot.health)
 #print(Nana.name , '' , Nana.health)
-
