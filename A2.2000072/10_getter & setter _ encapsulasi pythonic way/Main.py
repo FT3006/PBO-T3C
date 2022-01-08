@@ -24,7 +24,7 @@ class Hero:
 
 	@armor.deleter
 	def armor(self):
-		print('armor di delet')
+		print('armorr di delet')
 		self.__armor = None
 
 sniper = Hero('sniper',100,10)

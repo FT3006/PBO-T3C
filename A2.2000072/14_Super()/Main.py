@@ -18,4 +18,4 @@ class Hero_strength(Hero):
 		super().showInfo()
 
 lina = Hero_intelligent('lina')
-axe = Hero_strength('axe')
+axe = Hero_strength('axee')

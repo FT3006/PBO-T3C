@@ -32,6 +32,6 @@ class Hero_strength(Hero):
 
 
 lina = Hero_intelligent('lina')
-axe = Hero_strength('axe')
+axe = Hero_strength('axee')
 
 lina.showInfo()
