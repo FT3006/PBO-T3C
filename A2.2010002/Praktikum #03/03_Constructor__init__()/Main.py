@@ -5,6 +5,10 @@ class superCar:
         self.cc = inputCC
         self.torque = inputTorque
 
-supercarpertama = superCar("Enzo","Ferari", 100, 1500)
+supercarpertama = superCar("Enzo","Ferari", 1000, 100)
+supercarkedua = superCar("BMWX3","BMW", 1500, 200)
+supercarketiga = superCar("Huracan","Galardo", 2000, 300)
 
 print(supercarpertama.__dict__)
+print(supercarkedua.__dict__)
+print(supercarketiga.__dict__)
