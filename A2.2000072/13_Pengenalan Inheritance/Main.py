@@ -12,7 +12,7 @@ class Hero_strength(Hero):
 
 lina = Hero('lina',100)
 techies = Hero_intelligent('techies',50)
-axe = Hero_strength('axe',200)
+axe = Hero_strength('axee',200)
 
 print(lina.name)
 print(techies.name)

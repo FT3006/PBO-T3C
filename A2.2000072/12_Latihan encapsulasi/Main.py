@@ -43,7 +43,7 @@ class Hero:
 		self.gainExp = 50
 
 slardar = Hero('slardar', 100, 5, 10)
-axe = Hero('axe', 100, 5, 10)
+axe = Hero('axee', 100, 5, 10)
 print(slardar.info)
 
 slardar.attack(axe)
